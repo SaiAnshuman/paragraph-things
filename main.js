@@ -28,7 +28,7 @@ function getParagraph2(){
  
   inputs.join(". ");
  
-  document.getElementById("showParagraph1").innerHTML = inputs.join(". ");
+  document.getElementById("showParagraph2").innerHTML = inputs.join(". ");
  
  }
  
